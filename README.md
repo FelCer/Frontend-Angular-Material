@@ -12,7 +12,7 @@ Frontend hecho Angular 10.1.7, integrado con Material, Axios y otras librerias.
 
 ## USO
 
-## Development server
+### Desarrollo
 
 1. Ejecutar el comando `npm install` el cual instala las dependencias del proyecto.
 2. Ejecutar el comando `ng serve` el cual arrancara el proyecto.
