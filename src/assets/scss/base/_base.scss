@@ -1,0 +1,11 @@
+/*Import fonts*/
+@import '../fonts/fonts';
+/*Import Color*/
+@import '../colors/colors';
+/*Import Table*/
+@import '../table/table';
+
+.body {
+    font-family: $fontPrimary;
+    line-height: 1.25;
+}
